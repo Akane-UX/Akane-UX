@@ -8,18 +8,17 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/Akane-UX/Akane-UX/main/banner.jpg" alt="Banner" />
 </p>
 
-<h1 align="center">Hi, I'm Avrll👋</h1>
+<h1 align="center">Hi, I'm Avriliano Ezra</h1>
 <p align="center">
-  💻 Web Developer | 📸 Photographer | 🎨 Graphic Designer  
+  💻 Beginner Programer | 📸 Photographer | 🎨 Graphic Designer  
 </p>
 
 ---
 
-## 🌸 About Me
-- 🔭 Currently working on: Personal Website & Creative Projects  
-- 🌱 Learning: React, TailwindCSS, Three.js  
-- 🎯 Goal: Build impactful digital experiences for everyone  
-- 💡 Fun fact: I mix coding with photography & graphic design  
+## 🔗 About Me
+- 🔭 Currently : University Student  
+- 🌱 Learning: javascript, React.js, CSS  
+- 🎯 Goal: Build impactful digital experiences for everyone 
 
 ---
 
