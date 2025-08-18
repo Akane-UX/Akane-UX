@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Akari's GitHub stats](https://github-readme-stats.vercel.app/api?username=akari17&show_icons=true&theme=tokyonight)
+![Avrll GitHub stats](https://github-readme-stats.vercel.app/api?username=akari17&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akari17&layout=compact&theme=tokyonight)
 ![Spotify](https://novatorem.vercel.app/api/spotify)
 ![HTML5](https://img.shields.io/badge/Code-HTML5-orange?logo=html5)
