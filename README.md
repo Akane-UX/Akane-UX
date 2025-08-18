@@ -16,4 +16,9 @@ Here are some ideas to get you started:
 -->
 ![Akari's GitHub stats](https://github-readme-stats.vercel.app/api?username=akari17&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akari17&layout=compact&theme=tokyonight)
+![Spotify](https://novatorem.vercel.app/api/spotify)
+![HTML5](https://img.shields.io/badge/Code-HTML5-orange?logo=html5)
+![CSS3](https://img.shields.io/badge/Style-CSS3-blue?logo=css3)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
+![GitHub Streak](https://streak-stats.demolab.com?user=akari17&theme=tokyonight&hide_border=true)
 
