@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://www.google.com/imgres?q=anime&imgurl=https%3A%2F%2Fakcdn.detik.net.id%2Fvisual%2F2022%2F06%2F30%2Fanime-spy-x-family-anya-forger_169.jpeg%3Fw%3D400%26q%3D90&imgrefurl=https%3A%2F%2Fwww.cnnindonesia.com%2Fhiburan%2F20220630182708-225-815713%2F9-fakta-tentang-anya-forger-esper-cilik-di-anime-spy-x-family&docid=2osj_lmR8vBTFM&tbnid=tj8ZuOaI5DysMM&vet=12ahUKEwinh82RsZSPAxU9xTgGHbsBJBIQM3oECGQQAA..i&w=400&h=225&hcb=2&ved=2ahUKEwinh82RsZSPAxU9xTgGHbsBJBIQM3oECGQQAA"/>
+  <img src="https://raw.githubusercontent.com/Akane-UX/Akane-UX/main/banner.png" alt="Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Avrll👋</h1>
