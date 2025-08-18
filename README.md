@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Akane-UX/Akane-UX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,9 +14,8 @@ Here are some ideas to get you started:
 -->
 ![Spotify](https://novatorem.vercel.app/api/spotify)
 ![Avrll GitHub stats](https://github-readme-stats.vercel.app/api?username=Akane-UX&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=akari17&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akane-UX&layout=compact&theme=tokyonight)
 ![HTML5](https://img.shields.io/badge/Code-HTML5-orange?logo=html5)
 ![CSS3](https://img.shields.io/badge/Style-CSS3-blue?logo=css3)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
-![GitHub Streak](https://streak-stats.demolab.com?user=akari17&theme=tokyonight&hide_border=true)
-
