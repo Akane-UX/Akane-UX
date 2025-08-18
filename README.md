@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 ## 🎶 Now Playing
 <p align="center">
-  <img src="https://Akane-UX.vercel.app/api/spotify" alt="Spotify Now Playing" />
+  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" />
 </p>
 
 ---
