@@ -28,8 +28,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Code-HTML5-orange?logo=html5" />
   <img src="https://img.shields.io/badge/Style-CSS3-blue?logo=css3" />
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript" />
-  <img src="https://img.shields.io/badge/Framework-React-blue?logo=react" />
-  <img src="https://img.shields.io/badge/Style-TailwindCSS-teal?logo=tailwindcss" />
   <img src="https://img.shields.io/badge/Tools-Photoshop-001e36?logo=adobephotoshop" />
   <img src="https://img.shields.io/badge/Tools-Lightroom-31A8FF?logo=adobelightroom" />
 </p>
