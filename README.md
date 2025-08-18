@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://pin.it/1g0VnQAcM" alt="Photo" />
+  <img src="https://pin.it/1g0VnQAcM"/>
 </p>
 
 <h1 align="center">Hi, I'm Avrll👋</h1>
