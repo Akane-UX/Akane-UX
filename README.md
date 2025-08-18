@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akari17/akari17/main/banner.png" alt="Banner Akari" />
+  <img src="https://pin.it/1g0VnQAcM" alt="Photo" />
 </p>
 
 <h1 align="center">Hi, I'm Avrll👋</h1>
