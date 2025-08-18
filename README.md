@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Akari's GitHub stats](https://github-readme-stats.vercel.app/api?username=akari17&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akari17&layout=compact&theme=tokyonight)
 
