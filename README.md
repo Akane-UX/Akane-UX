@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 🔗 About Me
 - 🔭 Currently : University Student  
-- 🌱 Learning: javascript, React.js, CSS  
+- 🌱 Learning: javascript, python, CSS  
 - 🎯 Goal: Build impactful digital experiences for everyone 
 
 ---
