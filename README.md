@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 🔗 About Me
 - 🔭 Currently : University Student  
-- 🌱 Learning: javascript, python, CSS  
+- 🌱 Learning: HTML, Python, CSS  
 - 🎯 Goal: Build impactful digital experiences for everyone 
 
 ---
@@ -36,12 +36,6 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akane-UX&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akane-UX&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Akane-UX&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
