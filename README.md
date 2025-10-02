@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Akane-UX/Akane-UX/main/banner.jpg" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/Akane-UX/Akane-UX/main/banner.jpeg" alt="Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Avriliano Ezra</h1>
