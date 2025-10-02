@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 🔗 About Me
 - 🔭 Currently : Collage Student  
-- 🌱 Learning: HTML, Python, CSS  
+- 🌱 Learning: HTML, Python, CSS, Javascript  
 - 🎯 Goal: Build impactful digital experiences for everyone 
 
 ---
