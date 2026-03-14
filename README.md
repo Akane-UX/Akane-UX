@@ -2,7 +2,7 @@
 
 # ⚡ AVRIL ⚡
 
-### `> Cyber Programmer | Code • Design • Explore`
+### `> Programming | Code • Design • Explore`
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Initializing+Profile...;Software+Engineer+Student;C+%7C+C%2B%2B+Developer;Web+Developer+in+Progress;Exploring+the+Universe+of+Code" />
 
@@ -17,7 +17,7 @@
 > role: INFORMATIC BOYS
 > focus: C / C++ / UI Design
 > interests: Programming, Design, Photography, Science
-> status: just Beginner AF
+> status: Nerd AF
 ```
 
 ---
@@ -25,7 +25,7 @@
 ## ⚙️ Tech Arsenal
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,git,github,vscode,linux,photoshop" />
 </p>
 
 ---
