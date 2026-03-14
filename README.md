@@ -50,7 +50,7 @@
 ## ⚛️ My Team
 
 <p align="center">
-<img src="logo.png" />
+<img src="classlogo.png" />
 </p>
 
 ---
