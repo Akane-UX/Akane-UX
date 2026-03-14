@@ -47,10 +47,10 @@
 
 ---
 
-## 🐍 Contribution Snake
+## ⚛️ My Team
 
 <p align="center">
-<img src="banner.jpeg" />
+<img src="logo.png" />
 </p>
 
 ---
