@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ USERNAME ⚡
+# ⚡ AVRILIANO ⚡
 
 ### `> Cyber Programmer | Code • Design • Explore`
 
@@ -13,11 +13,11 @@
 ## 🧬 About Me
 
 ```bash
-> name: USERNAME
-> role: Software Engineer Student
-> focus: C / C++ / Web Development
-> interests: Programming, Design, Photography, Space
-> status: Learning and building cool stuff
+> name: AVRILIANO EZRA FIRELZA
+> role: INFORMATIC BOYS
+> focus: C / C++ / UI Design
+> interests: Programming, Design, Photography, Science
+> status: just Beginner AF
 ```
 
 ---
@@ -25,7 +25,7 @@
 ## ⚙️ Tech Arsenal
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,git,github,vscode,linux" />
 </p>
 
 ---
@@ -33,8 +33,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Akane-UX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akane-UX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170"/>
 </p>
 
 ---
@@ -42,7 +42,7 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://streak-stats.demolab.com?user=Akane-UX&theme=tokyonight&hide_border=true&background=0D1117"/>
 </p>
 
 ---
@@ -50,7 +50,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Akane-UX/Akane-UX/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -58,7 +58,7 @@
 ## 🌌 Visitor Counter
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile+Views&color=00ffff&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Akane-UX&label=Profile+Views&color=00ffff&style=flat" />
 </p>
 
 ---
