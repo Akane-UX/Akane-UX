@@ -1,53 +1,77 @@
-<!--
-**Akane-UX/Akane-UX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# ⚡ USERNAME ⚡
 
-<!-- Banner / Header -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Akane-UX/Akane-UX/main/banner.jpeg" alt="Banner" />
-</p>
+### `> Cyber Programmer | Code • Design • Explore`
 
-<h1 align="center">Hi, I'm Avriliano Ezra</h1>
-<p align="center">
-  💻 Beginner Programer | 📸 Photographer | 🎨 Graphic Designer  
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Initializing+Profile...;Software+Engineer+Student;C+%7C+C%2B%2B+Developer;Web+Developer+in+Progress;Exploring+the+Universe+of+Code" />
+
+</div>
 
 ---
 
-## 🔗 About Me
-- 🔭 Currently : Collage Student  
-- 🌱 Learning: HTML, Python, CSS, Javascript  
-- 🎯 Goal: Build impactful digital experiences for everyone 
+## 🧬 About Me
+
+```bash
+> name: USERNAME
+> role: Software Engineer Student
+> focus: C / C++ / Web Development
+> interests: Programming, Design, Photography, Space
+> status: Learning and building cool stuff
+```
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Arsenal
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-HTML5-orange?logo=html5" />
-  <img src="https://img.shields.io/badge/Style-CSS3-blue?logo=css3" />
-  <img src="https://img.shields.io/badge/Tools-Photoshop-001e36?logo=adobephotoshop" />
-  <img src="https://img.shields.io/badge/Tools-Lightroom-31A8FF?logo=adobelightroom" />
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,git,github,vscode,linux" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akane-UX&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170"/>
 </p>
 
 ---
 
-## 🎶 Now Playing
+## 🔥 Contribution Streak
+
 <p align="center">
-  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" />
+<img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true&background=0D1117"/>
 </p>
 
 ---
 
-## 📫 Let's Connect
+## 🐍 Contribution Snake
+
 <p align="center">
-  <a href="https://instagram.com/ezrafirelza"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
-  <a href="mailto:frelezra@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" />
 </p>
+
+---
+
+## 🌌 Visitor Counter
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile+Views&color=00ffff&style=flat" />
+</p>
+
+---
+
+<div align="center">
+
+```
+while(alive){
+    eat();
+    sleep();
+    code();
+    repeat();
+}
+```
+
+</div>
