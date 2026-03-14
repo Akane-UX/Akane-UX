@@ -50,7 +50,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Akane-UX/Akane-UX/output/github-contribution-grid-snake.svg" />
+<img src="banner.jpeg" />
 </p>
 
 ---
