@@ -14,10 +14,10 @@
 
 ```bash
 > name: AVRILIANO EZRA FIRELZA
-> role: INFORMATIC BOYS
-> focus: C / C++ / UI Design
-> interests: Programming, Design, Photography, Science
-> status: Nerd AF
+> role: INFORMATIC
+> focus: C / C++ / Arch / Photoshop / Affinity
+> interests: Programming / Design / Photography / Science / CyberSec
+> status: Nerd AF / Vibes Coder / Learning CyberSec
 ```
 
 ---
@@ -70,6 +70,7 @@ while(alive){
     eat();
     sleep();
     code();
+    collage();
     repeat();
 }
 ```
