@@ -2,7 +2,7 @@
 
 # ⚡ AVRIL ⚡
 
-### `> Programming | Code • Design • Explore | Pentest | Red Team CyberSec`
+### `> Programming | Code • Design • Explore `
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Initializing+Profile...;Software+Engineer+Student;Future+Developer;Developer+in+Progress;Exploring+the+Technology;Cyber+Security;I+Use+Arch+Btw" />
 
