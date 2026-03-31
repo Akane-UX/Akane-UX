@@ -4,7 +4,7 @@
 
 ### `> Programming | Code • Design • Explore | Pentest | Red Team CyberSec`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Initializing+Profile...;Software+Engineer+Student;C+%7C+C%2B%2B+Developer;Developer+in+Progress;Exploring+the+Universe+of+Code;Cyber+Security;I+Use+Arch+Btw" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Initializing+Profile...;Software+Engineer+Student;Future+Developer;Developer+in+Progress;Exploring+the+Technology;Cyber+Security;I+Use+Arch+Btw" />
 
 </div>
 
@@ -15,7 +15,7 @@
 ```bash
 > name: AVRILIANO EZRA FIRELZA
 > role: INFORMATIC
-> focus: C / C++ / Arch / Photoshop / Affinity
+> focus: C / C++ / Python
 > interests: Programming / Design / Photography / Science / Space / CyberSec
 > status: Nerd AF / Vibes Coder / Learning CyberSec
 ```
