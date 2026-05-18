@@ -15,7 +15,7 @@
 ```bash
 > name: AVRILIANO EZRA FIRELZA
 > role: INFORMATIC
-> focus: C / C++ / Python
+> focus: C / C++ / Python / Golang
 > interests: Programming / Design / Photography / Science / Space / CyberSec
 > status: Nerd AF / Vibes Coder / Learning CyberSec
 ```
