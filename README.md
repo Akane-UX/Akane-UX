@@ -4,7 +4,7 @@
 
 ### `> Programming | Code • Design • Explore `
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Initializing+Profile...;Software+Engineer+Student;-Your+Future+Engginer;MALAZZ;Aku+IMPHNEN;Cyber+Security;I+Use+Arch+Btw" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Initializing+Profile...;Software+Engineer+Student;-Your+Future+Engineer;MALAZZ;Aku+IMPHNEN;Cyber+Security;I+Use+Arch+Btw" />
 
 </div>
 
