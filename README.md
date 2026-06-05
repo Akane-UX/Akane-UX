@@ -17,7 +17,7 @@
 > role: INFORMATIC
 > focus: C / C++ / Python / Golang
 > interests: Programming / Design / Photography / Science / Space / CyberSec
-> status: Nerd AF / Vibes Coder / CyberSec
+> status: Nerd AF / Vibes Coder / Larper
 ```
 
 ---
