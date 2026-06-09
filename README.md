@@ -79,7 +79,6 @@
 ---
 
 <div align="center">
-
 ```
 while(alive){
     eat();
