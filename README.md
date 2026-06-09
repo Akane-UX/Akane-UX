@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ AVRIL ⚡
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="I'm Avrill" src="./assets/gh-readme-header.png" /></a></p>
 
 ### `> Programming | Code • Design • Explore `
 
