@@ -15,8 +15,8 @@
 ## 🧬 About Me
 
 ```bash
-> name: AVRILIANO EZRA FIRELZA
-> role: INFORMATIC
+> name: AVRIL
+> role: IDK BRUH
 > focus: C / C++ / Javascript / Python / Golang
 > interests: Programming / Design / Photography / Science / Space / CyberSec
 > status: Nerd AF / Vibes Coder / Larping
