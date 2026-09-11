@@ -17,9 +17,9 @@
 ```bash
 > name: AVRIL
 > role: IDK BRUH
-> focus: C / C++ / Javascript / Python / Golang
+> focus: C / C++ / Javascript / Python / Golang / QML
 > interests: Programming / Design / Photography / Science / Space / CyberSec
-> status: Nerd AF / Vibes Coder / Larping
+> status: Nerd / Vibes Coder / Larping / Loser / Lazy AF
 ```
 
 ---
