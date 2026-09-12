@@ -1,7 +1,11 @@
 <div align="center">
-  <img src="banner.jpeg" width="100%" alt="Banner" />
-  <br><br>
-  <img src="logo.png" width="130" alt="Logo" />
+  <img src="banner.jpeg" width="750" alt="Banner" />
+</div>
+
+<br><br>
+
+<div align="center">
+  <img src="logo.png" width="160" alt="Logo" />
 
   # AVRIL
 
@@ -49,7 +53,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
   </picture>
   <br><br>
   <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" width="600" alt="Aesthetic GIF" />
