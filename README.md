@@ -44,7 +44,7 @@ vibe      : Night owl.
 
 **`> ./now`**
 
-- &nbsp; Working on **C++** and **Go** side projects
+- &nbsp; Working on **QML** and **Linux** side projects
 - &nbsp; Studying **Cyber Security** concepts
 - &nbsp; Experimenting with photography & visual design
 - &nbsp; Fueled by caffeine and late-night quiet
