@@ -38,16 +38,16 @@ name      : AVRIL
 role      : Software Engineering Student
 stack     : C / C++ / Golang / Python / JS / QML
 interests : CyberSec · Open Source · Photography
-os        : Arch Linux  — btw
-vibe      : Night owl. Always building something.
+os        : Windows / Arch Linux btw
+vibe      : Night owl.
 ```
 
 **`> ./now`**
 
-- 🔭 &nbsp; Working on **C++** and **Go** side projects
-- 🛡️ &nbsp; Studying **Cyber Security** concepts
-- 📸 &nbsp; Experimenting with photography & visual design
-- ☕ &nbsp; Fueled by caffeine and late-night quiet
+- &nbsp; Working on **C++** and **Go** side projects
+- &nbsp; Studying **Cyber Security** concepts
+- &nbsp; Experimenting with photography & visual design
+- &nbsp; Fueled by caffeine and late-night quiet
 
 <br clear="right" />
 
