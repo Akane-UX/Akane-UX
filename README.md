@@ -11,9 +11,9 @@
 <!-- IDENTITY -->
 <div align="center">
 
-  ![](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hello+World.+I'm+AVRIL.+%F0%9F%91%BE;Student+%7C+Builder+%7C+Night+Owl+%F0%9F%8C%99)
+  ![](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Print+("Hello+World");Student+Larper+Night+Owl)
 
-  ![](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&duration=2600&pause=1200&color=7FDBFF&center=true&vCenter=true&width=560&lines=C+%7C+C%2B%2B+%7C+Go+%7C+Python+%7C+JavaScript;Cyber+Security+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Arch+Linux+user%2C+btw+%F0%9F%90%A7;Designing+%C2%B7+Building+%C2%B7+Breaking+things)
+  ![](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&duration=2600&pause=1200&color=7FDBFF&center=true&vCenter=true&width=560&lines=QML+C+Go+Python+JavaScript;Linux+Enthusiast;I+use+arch+btw;Designing+Building+Documetation;Aku+IMPHNEN)
 
   <br>
 
