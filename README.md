@@ -1,5 +1,5 @@
 <!-- TOP WAVE -->
-![](https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=160&section=header&text=AVRIL&fontSize=52&fontColor=0D1117&fontAlignY=38&animation=fadeIn&desc=Software+Engineering+Student+%2F+Cyber+Security&descSize=14&descAlignY=60&descColor=0D1117)
+![](https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=160&section=header&text=AVRIL&fontSize=52&fontColor=0D1117&fontAlignY=38&animation=fadeIn&desc=Software+Engineer+%2F+Cyber+Security&descSize=14&descAlignY=60&descColor=0D1117)
 
 <!-- BANNER -->
 <div align="center">
@@ -11,7 +11,7 @@
 <!-- IDENTITY -->
 <div align="center">
 
-  ![](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Print+("Hello+World");Student+Larper+Night+Owl;Aku+IMPHNEN)
+  ![](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Print+("Hello+World");Student+Larper+Night+Owl;Aku+IMPHNEN;I+Use+Arch+Btw)
 
   ![](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&duration=2600&pause=1200&color=7FDBFF&center=true&vCenter=true&width=560&lines=QML+C+Go+Python+JavaScript;Linux+Enthusiast;I+use+arch+btw;Designing+Building+Documetation)
 
@@ -79,16 +79,6 @@ vibe      : Night owl.
 
   <img src="https://streak-stats.demolab.com?user=Akane-UX&theme=tokyonight&hide_border=true&background=0D1117&border_radius=6&date_format=j%20M%5B%20Y%5D" alt="Streak" />
 
-</div>
-
----
-
-<!-- TROPHIES -->
-
-**`> ./achievements --verbose`**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akane-UX&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies" />
 </div>
 
 ---
