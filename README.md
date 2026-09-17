@@ -71,12 +71,6 @@ vibe      : Night owl.
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Akane-UX&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akane-UX&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Langs" />
-
-  <br><br>
-
   <img src="https://streak-stats.demolab.com?user=Akane-UX&theme=tokyonight&hide_border=true&background=0D1117&border_radius=6&date_format=j%20M%5B%20Y%5D" alt="Streak" />
 
 </div>
@@ -93,11 +87,6 @@ vibe      : Night owl.
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
     <img alt="snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   </picture>
-
-  <br><br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akane-UX&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=00F7FF&point=FFFFFF&area=true&area_color=00F7FF" alt="Activity Graph" />
-</div>
 
 ---
 
