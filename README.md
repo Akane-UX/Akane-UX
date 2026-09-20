@@ -3,7 +3,7 @@
 
 <!-- BANNER -->
 <div align="center">
-  <img src="banner.jpeg" width="50%" alt="Banner" />
+  <img src="Manhattan Cafe(3).jpg" width="50%" alt="Banner" />
 </div>
 
 <br>
