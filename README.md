@@ -39,7 +39,8 @@ role      : Software Engineering Student
 stack     : C / C++ / Golang / Python / JS / QML
 interests : CyberSec · Open Source · Photography
 os        : Windows / Arch Linux btw
-vibe      : Night owl.
+vibe      : Night owl
+status    : Unemployed
 ```
 
 **`> ./now`**
@@ -105,7 +106,6 @@ vibe      : Night owl.
 <div align="center">
 
 ```c
-// main.c
 int main() {
     while (alive()) {
         eat();
