@@ -36,7 +36,7 @@
 ```yaml
 name      : AVRIL
 role      : Software Engineering Student
-stack     : C / C++ / Golang / Python / JS / QML
+stack     : C / Golang / Python / JS / QML
 interests : CyberSec · Open Source · Photography
 os        : Windows / Arch Linux btw
 vibe      : Night owl
@@ -59,7 +59,7 @@ status    : Unemployed
 **`> ls -1 ~/stack`**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,golang,js,html,css,bash&perline=8" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=c,dart,python,golang,js,html,css,bash&perline=8" alt="Languages" />
   <br><br>
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,photoshop&perline=8" alt="Tools" />
 </div>
