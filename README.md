@@ -111,7 +111,7 @@ int main() {
         eat();
         sleep();
         code();
-        college();
+        learn();
     }
     return 0;
 }
