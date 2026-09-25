@@ -37,10 +37,10 @@
 name      : AVRIL
 role      : Software Engineering Student
 stack     : C / Golang / Python / JS / QML
-interests : CyberSec · Open Source · Photography
-os        : Windows / Arch Linux btw
-vibe      : Night owl
-status    : Unemployed
+interests : CyberSec / Open Source / Photography
+os        : Windows / Arch Linux
+vibe      : Night Owl
+status    : Unemployed / Depressed
 ```
 
 **`> ./now`**
