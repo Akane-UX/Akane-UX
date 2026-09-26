@@ -35,12 +35,13 @@
 
 ```yaml
 name      : AVRIL
-role      : Software Engineering Student
+role      : IT Student
 stack     : C / Golang / Python / JS / QML
-interests : CyberSec / Open Source / Photography
+interests : CyberSec / Programming / Photography
 os        : Windows / Arch Linux
 vibe      : Night Owl
-status    : Unemployed / Depressed
+status    : Unemployed
+feeling   : Depressed
 ```
 
 **`> ./now`**
