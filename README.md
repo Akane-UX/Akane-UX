@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=160&section=header&text=AVRIL&fontSize=52&fontColor=0D1117&fontAlignY=38&animation=fadeIn&desc=Informatics+Student+%7C+Cyber+Security&descSize=14&descAlignY=60&descColor=0D1117" alt="Header Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=160&section=header&text=AVRIL&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Informatics+Student+%7C+Cyber+Security&descSize=14&descAlignY=60&descColor=0D1117" alt="Header Wave" />
 </div>
 
 <br>
@@ -8,7 +8,7 @@
   <img src="banner.jpeg" width="50%" alt="Banner" />
   <br><br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Initializing+System...;Curious.+Analytical.+Absurd.;Building+Habits+%3E+Motivation;Linux+Sysadmin+%7C+Penetration+Testing;I+Use+Arch+Btw+🐧" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Initializing+System...;Curious.+Analytical.+Absurd.;Building+Habits+%3E+Motivation;Linux+Sysadmin+%7C+Penetration+Testing;I+Use+Arch+Btw" alt="Typing SVG" />
   
   <br>
 
@@ -63,25 +63,9 @@ Nerd / Vibes Coder / Arch Linux User
 ## Telemetry
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Akane-UX&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akane-UX&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-  <br><br>
   <img src="https://streak-stats.demolab.com?user=Akane-UX&theme=tokyonight&hide_border=true&background=0D1117&border_radius=6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akane-UX&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&langs_count=10&custom_title=Frequently%20Used%20Languages" alt="Frequently Used Languages" />
 </div>
-
-<br>
-
----
-
-## Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akane-UX&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies" />
-</div>
-
 <br>
 
 ---
