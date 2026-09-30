@@ -26,24 +26,26 @@
 <img align="right" width="270" src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" alt="aesthetic gif" />
 
 ```bash
-> whoami
+> name
 AVRIL
 
 > cat /sys/class/role
-Informatics Student
+IT Student
 
 > cat /sys/class/objective
 Linux Sysadmin & Penetration Testing
 
 > cat /sys/class/traits
-Introverted yet chaotic. Highly curious but easily bored.
-Building systems against procrastination.
+Introvert.
 
 > echo $STACK
 C, C++, Go, Python, JavaScript, QML
 
 > status
 Nerd / Vibes Coder / Arch Linux User
+
+> feelings
+Depressed / anxious / overthinking / stressed
 ```
 
 <br clear="right" />
