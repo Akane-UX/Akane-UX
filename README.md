@@ -33,18 +33,15 @@ AVRIL
 IT Student
 
 > cat /sys/class/objective
-Linux Sysadmin & Penetration Testing
+Linux Sysadmin & Penetration Testing & Electronics
 
 > cat /sys/class/traits
-Introvert.
+Introvert, lazy
 
 > echo $STACK
-C, C++, Go, Python, JavaScript, QML
+C++, Go, Python, JavaScript, QML
 
 > status
-Nerd / Vibes Coder / Arch Linux User
-
-> feelings
 Depressed / anxious / overthinking / stressed
 ```
 
