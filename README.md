@@ -36,7 +36,7 @@ IT Student
 Linux Sysadmin & Penetration Testing & Electronics
 
 > cat /sys/class/traits
-Introvert, lazy
+Introvert, lazy as fck
 
 > echo $STACK
 C++, Go, Python, JavaScript, QML
