@@ -33,16 +33,17 @@ AVRIL
 UI/UX - FrontEnd - Blue Team
 
 > cat /sys/class/objective
-Linux Sysadmin & Penetration Testing & Electronics
+Linux Sysadmin & Defending System & Electronics
 
 > sudo nano /sys/class/os
-Arch Linux (Main) / Windows
+  - Arch Linux (Main)
+  - Windows
 
 > cat /sys/class/traits
-Introvert - lazy as fck
+Introvert - lazy as fck - antisocial - communication issues
 
 > echo $STACK
-C++, Go, Python, JavaScript, QML
+C++, Go, Python, Dart, QML
 
 > status
 Depressed / anxious / ovt
