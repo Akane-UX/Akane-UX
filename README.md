@@ -8,7 +8,7 @@
   <img src="Manhattan Cafe(2).jpg" width="50%" alt="Banner" />
   <br><br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Initializing+System...;Curious.+Analytical.+Absurd.;Building+Habits+%3E+Motivation;Linux+Sysadmin+%7C+Penetration+Testing;I+Use+Arch+Btw" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Initializing+Life...;Lazy+Analytical+Absurd;Sleep+%3E+Motivation;Breaking+The+System;I+Use+Arch+Btw;Need+Money+As+I+Broke" alt="Typing SVG" />
   
   <br>
 
@@ -29,24 +29,27 @@
 > name
 AVRIL
 
+> status
+Depressed / anxious / ovt
+
 > cat /sys/class/role
-UI/UX - FrontEnd - Blue Team
+Designer - FrontEnd - Blue Team
 
 > cat /sys/class/objective
 Linux Sysadmin & Defending System & Electronics
 
-> sudo nano /sys/class/os
+> cat /sys/class/os
   - Arch Linux (Main)
   - Windows
 
 > cat /sys/class/traits
-Introvert - lazy as fck - antisocial - communication issues
+  - Introvert
+  - lazy as fck
+  - antisocial
+  - communication issues
 
 > echo $STACK
-C++, Go, Python, Dart, QML
-
-> status
-Depressed / anxious / ovt
+C++/Go/Python/Dart/QML
 ```
 
 <br clear="right" />
