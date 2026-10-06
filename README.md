@@ -30,7 +30,7 @@
 AVRIL
 
 > cat /sys/class/role
-IT Student - UI/UX - FrontEnd - Blue Team
+UI/UX - FrontEnd - Blue Team
 
 > cat /sys/class/objective
 Linux Sysadmin & Penetration Testing & Electronics
