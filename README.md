@@ -30,7 +30,7 @@
 AVRIL
 
 > cat /sys/class/role
-IT Student
+IT Student - UI/UX - FrontEnd - Blue Team
 
 > cat /sys/class/objective
 Linux Sysadmin & Penetration Testing & Electronics
@@ -42,7 +42,7 @@ Introvert, lazy as fck
 C++, Go, Python, JavaScript, QML
 
 > status
-Depressed / anxious / overthinking / stressed
+Depressed / anxious / overthinking
 ```
 
 <br clear="right" />
@@ -101,7 +101,7 @@ int main() {
         eat();
         sleep();
         code();
-        hack();
+        repeat();
     }
     return 0;
 }
