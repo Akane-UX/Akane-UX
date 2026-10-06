@@ -35,14 +35,17 @@ UI/UX - FrontEnd - Blue Team
 > cat /sys/class/objective
 Linux Sysadmin & Penetration Testing & Electronics
 
+> sudo nano /sys/class/os
+Arch Linux (Main) / Windows
+
 > cat /sys/class/traits
-Introvert, lazy as fck
+Introvert - lazy as fck
 
 > echo $STACK
 C++, Go, Python, JavaScript, QML
 
 > status
-Depressed / anxious / overthinking
+Depressed / anxious / ovt
 ```
 
 <br clear="right" />
