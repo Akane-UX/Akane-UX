@@ -44,6 +44,7 @@
   - Linux Sysadmin
   - Defending System
   - Electronics
+  - Street Photography
 
 > cat /sys/class/os
   - Arch Linux (Main)
