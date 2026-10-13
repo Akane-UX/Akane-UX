@@ -27,16 +27,23 @@
 
 ```bash
 > name
-AVRIL
+  AVRIL
 
 > status
-Depressed / anxious / ovt
+  /Depressed
+  /anxious
+  /overthinker
 
 > cat /sys/class/role
-Designer - FrontEnd - Blue Team
+  - Photographer
+  - Designer
+  - FrontEnd
+  - Blue Team
 
 > cat /sys/class/objective
-Linux Sysadmin & Defending System & Electronics
+  - Linux Sysadmin
+  - Defending System
+  - Electronics
 
 > cat /sys/class/os
   - Arch Linux (Main)
@@ -49,7 +56,11 @@ Linux Sysadmin & Defending System & Electronics
   - communication issues
 
 > echo $STACK
-C++/Go/Python/Dart/QML
+  /C++
+  /Go
+  /Python
+  /Dart
+  /QML
 ```
 
 <br clear="right" />
