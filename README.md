@@ -39,6 +39,7 @@
   - Designer
   - FrontEnd
   - Blue Team
+  - Editor
 
 > cat /sys/class/objective
   - Linux Sysadmin
