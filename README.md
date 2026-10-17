@@ -8,7 +8,7 @@
   <img src="Manhattan Cafe(2).jpg" width="50%" alt="Banner" />
   <br><br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Initializing+Life...;Lazy+Analytical+Absurd;Sleep+%3E+Motivation;Breaking+The+System;I+Use+Arch+Btw;Need+Money+As+I+Broke" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Initializing+Life...;Lazy+Analytical+Absurd;Sleep+%3E+Motivation;Breaking+The+System;I+Use+Arch+Btw;Need+Money+As+I+Broke;Larp" alt="Typing SVG" />
   
   <br>
 
@@ -35,15 +35,14 @@
   /overthinker
 
 > cat /sys/class/role
+  - Larp
   - Photographer
   - Designer
   - FrontEnd
-  - Blue Team
   - Editor
 
 > cat /sys/class/objective
   - Linux Sysadmin
-  - Defending System
   - Electronics
   - Street Photography
 
@@ -58,7 +57,6 @@
   - communication issues
 
 > echo $STACK
-  /C++
   /Go
   /Python
   /Dart
