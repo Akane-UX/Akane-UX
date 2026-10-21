@@ -38,13 +38,12 @@
   - Larp
   - Photographer
   - Designer
-  - FrontEnd
   - Editor
 
 > cat /sys/class/objective
-  - Linux Sysadmin
+  - Linux
   - Electronics
-  - Street Photography
+  - Photography
 
 > cat /sys/class/os
   - Arch Linux (Main)
