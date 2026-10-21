@@ -44,6 +44,7 @@
   - Linux
   - Electronics
   - Photography
+  - keep alive
 
 > cat /sys/class/os
   - Arch Linux (Main)
@@ -52,7 +53,7 @@
 > cat /sys/class/traits
   - Introvert
   - lazy as fck
-  - antisocial
+  - social anxiety
   - communication issues
 
 > echo $STACK
