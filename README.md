@@ -44,6 +44,7 @@
   - Linux
   - Electronics
   - Photography
+  - Programming
   - keep alive
 
 > cat /sys/class/os
@@ -70,7 +71,7 @@
 ## Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,golang,git,github,vscode,linux,photoshop,bash&perline=15" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,python,golang,git,github,vscode,linux,photoshop,bash&perline=15" alt="Tech Stack" />
 </div>
 
 <br>
@@ -113,7 +114,7 @@
 
 <div align="center">
   
-```c
+```
 int main() {
     while (alive()) {
         eat();
