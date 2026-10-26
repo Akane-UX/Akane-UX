@@ -27,25 +27,26 @@
 
 ```bash
 > name
-  AVRIL
+  AVRLLN
 
 > status
   /Depressed
-  /anxious
-  /overthinker
+  /Anxious
+  /Overthinker
 
 > cat /sys/class/role
   - Larp
   - Photographer
   - Designer
   - Editor
+  - Programmer
 
 > cat /sys/class/objective
   - Linux
   - Electronics
   - Photography
   - Programming
-  - keep alive
+  - Keep alive
 
 > cat /sys/class/os
   - Arch Linux (Main)
@@ -53,9 +54,9 @@
 
 > cat /sys/class/traits
   - Introvert
-  - lazy as fck
-  - social anxiety
-  - communication issues
+  - Lazy as fck
+  - Social anxiety
+  - Communication issues
 
 > echo $STACK
   /Go
