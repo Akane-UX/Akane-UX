@@ -33,7 +33,6 @@
   /Depressed
   /Anxious
   /Overthinker
-  /WNI
 
 > cat /sys/class/role
   - Larp
