@@ -31,11 +31,11 @@
 
 > status
   /Depressed
-  /Anxious
-  /Overthinker
+  /Anxiety
+  /Overthinking
 
 > cat /sys/class/role
-  - Larp
+  - Larper
   - Photographer
   - Designer
   - Editor
@@ -57,6 +57,7 @@
   - Lazy as fck
   - Social anxiety
   - Communication issues
+  - No life
 
 > echo $STACK
   /Go
