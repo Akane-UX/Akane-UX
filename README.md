@@ -57,7 +57,6 @@
   - Lazy as fck
   - Social anxiety
   - Communication issues
-  - No life
 
 > echo $STACK
   /Go
