@@ -55,6 +55,7 @@
 > cat /sys/class/traits
   - Introvert
   - Lazy as fck
+  - No Life
   - Social anxiety
   - Communication issues
 
