@@ -43,7 +43,7 @@
 
 > cat /sys/class/objective
   - Linux
-  - IOT
+  - IoT
   - Photography
   - Programming
   - Keep alive
