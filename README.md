@@ -73,7 +73,7 @@
 ## Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,python,golang,git,github,vscode,linux,photoshop,bash&perline=15" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,dart,python,golang,git,github,vscode,linux,photoshop,bash&perline=15" alt="Tech Stack" />
 </div>
 
 <br>
